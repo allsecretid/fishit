@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/e22246142bf6dbde9d234767e96ca3d2.lua"))()
- 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x2neptunereal/Alchemy/main/gateway.luau"))({ "discord.gg/alchemyhub","x2neptune.space",true,"e4c" })
